@@ -25,7 +25,7 @@ SECRET_KEY = 'o$v53&)6&_h@)257j&ugv$=71g^l5&=7=p7f9)dvz1e_qg8xxr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['crowdmarket.rkef5g8emc.us-east-1.elasticbeanstalk.com', '127.0.0.1']
+ALLOWED_HOSTS = ['crowdmarket-prod.jym2bi3di3.us-east-1.elasticbeanstalk.com', '127.0.0.1']
 
 
 # Application definition
